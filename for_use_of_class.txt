@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<title>Nikhil is here</title>
+  <head>
+    <h1>My name is nikhil</h1>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/styling.css">
+  </head>
+  <body>
+    <p>I am from Gadhinglaj</p>
+    <p>I am from Gadhinglaj</p>
+    <p>I am from Gadhinglaj</p>
+    <p>I am from Gadhinglaj</p>
+    <p>I am from Gadhinglaj</p>
+    <p>I am from Gadhinglaj</p>
+    <img class="pot" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/pot-of-food_1f372.png" alt="">
+    <img class ="can" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/canned-food_1f96b.png" alt="">
+  </body>
+</html>
